@@ -1,2 +1,3 @@
-a small change, a bigger one!
-
+<<<<<<< HEAD
+a small change, a bigger one! small change again
+>>>>>>> b2cc4fe341e661ce102baf67b5abb0e7f298f63c
